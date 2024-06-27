@@ -1,7 +1,7 @@
 package cs3500.klondike.controller;
 
-import cs3500.klondike.model.hw02.Card;
-import cs3500.klondike.model.hw02.KlondikeModel;
+import model.hw02.Card;
+import model.hw02.KlondikeModel;
 
 
 import java.io.IOException;
