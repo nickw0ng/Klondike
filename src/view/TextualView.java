@@ -1,4 +1,4 @@
-package cs3500.klondike.view;
+package view;
 
 import java.io.IOException;
 

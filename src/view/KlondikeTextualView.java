@@ -1,9 +1,9 @@
-package cs3500.klondike.view;
+package view;
 
 import java.io.IOException;
 
-import cs3500.klondike.model.hw02.Card;
-import cs3500.klondike.model.hw02.KlondikeModel;
+import model.hw02.Card;
+import model.hw02.KlondikeModel;
 
 /**
  * Game of klondike.
