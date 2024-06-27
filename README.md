@@ -104,3 +104,4 @@ To use this project, follow these steps:
 ### Creating a Basic Klondike Game
 ```java
 KlondikeModel game = KlondikeCreator.createGame(KlondikeCreator.GameType.BASIC);
+```
