@@ -1,8 +1,8 @@
-package cs3500.klondike.model.hw04;
+package model.hw04;
 
 import java.util.ArrayList;
 
-import cs3500.klondike.model.hw02.Card;
+import model.hw02.Card;
 
 /**
  * This is a stub implementation of the {@link cs3500.klondike.model.hw02.KlondikeModel} interface.

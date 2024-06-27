@@ -1,12 +1,12 @@
-package cs3500.klondike.model.hw04;
+package model.hw04;
 
-import cs3500.klondike.model.hw02.Card;
+import model.hw02.Card;
 
 import java.util.ArrayList;
 import java.util.List;
 
 /**
- * This is a stub implementation of the {@link cs3500.klondike.model.hw02.KlondikeModel} interface.
+ * This is a stub implementation of the {@link model.hw02.KlondikeModel} interface.
  * You may assume that the actual implementation of WhiteheadKlondike will have a zero-argument
  * (i.e. default) constructor, and that all the methods below will be implemented.  You may not make
  * any other assumptions about the implementation of this class (e.g. what fields it might have,

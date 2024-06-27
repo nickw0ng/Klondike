@@ -1,7 +1,7 @@
-package cs3500.klondike.model.hw04;
+package model.hw04;
 
-import cs3500.klondike.model.hw02.BasicKlondike;
-import cs3500.klondike.model.hw02.KlondikeModel;
+import model.hw02.BasicKlondike;
+import model.hw02.KlondikeModel;
 
 /**
  * Klondike Creator class that creates the different versions of the klondike game.

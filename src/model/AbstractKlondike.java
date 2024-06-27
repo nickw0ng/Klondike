@@ -1,4 +1,4 @@
-package cs3500.klondike.model.hw04;
+package model.hw04;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -6,9 +6,9 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Objects;
 
-import cs3500.klondike.model.hw02.RegularCard;
-import cs3500.klondike.model.hw02.Card;
-import cs3500.klondike.model.hw02.Suits;
+import model.hw02.RegularCard;
+import model.hw02.Card;
+import model.hw02.Suits;
 
 /**
  * An abstract class that represents the different versions of the game.
